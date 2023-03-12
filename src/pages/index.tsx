@@ -1,8 +1,5 @@
 import Head from 'next/head'
-import { Inter } from 'next/font/google'
 import Maintenence from '@/components/common/maintenence'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
